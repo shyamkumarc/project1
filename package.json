@@ -1,8 +1,10 @@
 {
-  "requires": true, 
+  "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.4"
   },
   "name": "live-nse-stock-master",
   "version": "1.0.0",
